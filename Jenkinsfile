@@ -1,9 +1,3 @@
-node('master') {
- sh "pwd; ls -laR .."
-}
-
-return
-
 @Library('libpipelines@feature/JkFromBranch') _
 
 hose {
