@@ -5,6 +5,6 @@ hose {
     BUILDTOOLVERSION = '3.5.0'
 
     DEV = { config ->
-        echo 'THIS IS MASTER'
+        echo 'THIS IS BRANCH-0.1'
     }     
 }
