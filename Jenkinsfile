@@ -1,4 +1,4 @@
-@Library('libpipelines@feature/JkFromBranch') _
+@Library('libpipelines@preproduction') _
 
 hose {
     EMAIL = 'cd'
