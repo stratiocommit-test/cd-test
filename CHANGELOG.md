@@ -10,9 +10,10 @@
 * Another change that was not originally in the release notes
 * A third change for another version
 
-## 0.9.0_4bb7909 (March 09, 2018)
+## 0.9.0_5c81aab (March 09, 2018)
 
 * Changes for 0.9.0
+* A second change for 0.9
 
 ## 0.8.0_b798551 (March 09, 2018)
 
