@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.4.0 (upcoming)
+## 0.4.0 (March 09, 2018)
 
 * This is the original change for version 0.4.0
 
