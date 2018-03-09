@@ -2,7 +2,7 @@
 
 ## 0.3.0 (upcoming)
 
-* Pending changelog
+* This is a change for version 0.3.0
 
 ## 0.2.0_b3367b2 (March 09, 2018)
 
