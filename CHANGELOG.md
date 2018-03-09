@@ -2,12 +2,11 @@
 
 ## 0.10.0 (upcoming)
 
-* Pending changelog
+* Test
 
 ## 0.9.0_4bb7909 (March 09, 2018)
 
 * Changes for 0.9.0
-
 
 ## 0.8.0_b798551 (March 09, 2018)
 
