@@ -2,7 +2,7 @@
 
 ## 0.6.0 (upcoming)
 
-* Pending changelog
+* This version is also ready
 
 ## 0.5.0 (upcoming)
 
