@@ -1,8 +1,13 @@
 # Changelog
 
-## 0.8.0 (upcoming)
+## 0.9.0 (upcoming)
+
+* Pending changelog
+
+## 0.8.0_d082941 (March 09, 2018)
 
 * This one is version 0.8.0
+
 
 ## 0.7.0 (upcoming)
 
