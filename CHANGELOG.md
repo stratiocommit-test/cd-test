@@ -2,7 +2,7 @@
 
 ## 0.8.0 (upcoming)
 
-* Pending changelog
+* This one is version 0.8.0
 
 ## 0.7.0 (upcoming)
 
