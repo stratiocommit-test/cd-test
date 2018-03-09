@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.0 (upcoming)
+
+* Pending changelog
+
 ## 0.4.0 (upcoming)
 
 * This is the original change for version 0.4.0
