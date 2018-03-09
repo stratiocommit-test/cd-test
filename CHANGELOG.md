@@ -4,6 +4,7 @@
 
 * Test
 * Another change that was not originally in the release notes
+* A third change for another version
 
 ## 0.9.0_4bb7909 (March 09, 2018)
 
