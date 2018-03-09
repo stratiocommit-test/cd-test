@@ -4,10 +4,11 @@
 
 * Pending changelog
 
-## 0.10.0_e9587e6 (March 09, 2018)
+## 0.10.0_20290e0 (March 09, 2018)
 
 * Test
 * Another change that was not originally in the release notes
+* A third change for another version
 
 ## 0.9.0_4bb7909 (March 09, 2018)
 
