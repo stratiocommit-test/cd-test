@@ -3,6 +3,7 @@
 ## 0.4.0 (March 09, 2018)
 
 * This is the original change for version 0.4.0
+* During the acceptance tests this other thing was added
 
 ## 0.3.0_f6113ae (March 09, 2018)
 
