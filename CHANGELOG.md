@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.8.0 (upcoming)
+## 0.8.0 (March 09, 2018)
 
 * This one is version 0.8.0
 
