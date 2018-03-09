@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.3.0 (upcoming)
+## 0.4.0 (upcoming)
+
+* Pending changelog
+
+## 0.3.0_f6113ae (March 09, 2018)
 
 * This is a change for version 0.3.0
 
