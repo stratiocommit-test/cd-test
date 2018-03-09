@@ -2,7 +2,7 @@
 
 ## 0.5.0 (upcoming)
 
-* Pending changelog
+* Test change for version 0.5.0
 
 ## 0.4.0 (upcoming)
 
