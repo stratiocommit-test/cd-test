@@ -3,6 +3,7 @@
 ## 0.10.0 (March 09, 2018)
 
 * Test
+* Another change that was not originally in the release notes
 
 ## 0.9.0_4bb7909 (March 09, 2018)
 
