@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.9.0 (upcoming)
+## 0.9.0 (March 09, 2018)
 
 * Changes for 0.9.0
 
