@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.8.0_d082941 (March 09, 2018)
+## 0.8.0_b798551 (March 09, 2018)
 
 * This one is version 0.8.0
 
