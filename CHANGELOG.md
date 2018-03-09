@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.3.0 (upcoming)
+## 0.3.0 (March 09, 2018)
 
 * This is a change for version 0.3.0
 
