@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.6.0 (upcoming)
+## 0.6.0 (March 09, 2018)
 
 * This version is also ready
 
