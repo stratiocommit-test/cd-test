@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.5.0 (upcoming)
+## 0.5.0 (March 09, 2018)
 
 * Test change for version 0.5.0
 
