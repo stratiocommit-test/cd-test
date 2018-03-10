@@ -20,5 +20,4 @@
         <junit.version>4.12</junit.version>
         <jsoup.version>1.8.3</jsoup.version>
     </properties>
-
 </project>
