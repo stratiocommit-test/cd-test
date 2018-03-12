@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.10.0 (March 09, 2018)
+## 0.10.0 (March 12, 2018)
 
 * Test
 * Another change that was not originally in the release notes
