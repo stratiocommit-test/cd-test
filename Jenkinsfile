@@ -9,5 +9,6 @@ hose {
         echo 'THIS IS MASTER'
         doCompile(config)
         doPackage(config)
+        doDeploy(config)
     }     
 }
