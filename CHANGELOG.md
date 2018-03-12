@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.11.0_8f641c9 (March 12, 2018)
+## 0.11.0_ef0f82f (March 12, 2018)
 
 * The first change for version 0.11
 * Another change created during the milestone process
