@@ -7,5 +7,7 @@ hose {
 
     DEV = { config ->
         echo 'THIS IS MASTER'
+        doCompile(config)
+        doPackage(config)
     }     
 }
