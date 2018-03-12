@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.10.0_8d85f9d (March 12, 2018)
+## 0.10.0_8d85f9d (Built: March 12, 2018, Released: March 12, 2018)
 
 * Test
 * Another change that was not originally in the release notes
