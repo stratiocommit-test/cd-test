@@ -10,5 +10,6 @@ hose {
         doCompile(config)
         doPackage(config)
         doDeploy(config)
+        doDocker(config)
     }     
 }
