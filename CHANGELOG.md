@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.13.0 (upcoming)
+## 0.13.0 (March 13, 2018)
 
 * Dockerfile
 
