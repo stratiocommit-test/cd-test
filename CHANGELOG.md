@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.11.0 (March 12, 2018)
+## 0.11.0 (March 13, 2018)
 
 * The first change for version 0.11
 * Another change created during the milestone process
