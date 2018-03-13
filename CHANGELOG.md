@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.14.0 (upcoming)
+## 0.14.0 (March 13, 2018)
 
 * Change for 0.14
 
