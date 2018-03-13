@@ -2,7 +2,7 @@
 
 ## 0.14.0 (upcoming)
 
-* Pending changelog
+* Change for 0.14
 
 ## 0.13.0_ef4b0cf (Built: March 13, 2018, Released: March 13, 2018)
 
