@@ -5,6 +5,7 @@
 * And this is the first change for 0.12
 * Something else added during the milestone process
 * Change added before the branching for 0.12
+* Change added after branching, before the second build
 
 ## 0.11.0_88f65ff (March 13, 2018)
 
