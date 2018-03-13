@@ -4,11 +4,12 @@
 
 * Pending changelog
 
-## 0.12.0_baf4b90 (March 13, 2018)
+## 0.12.0_cb2b10b (March 13, 2018)
 
 * And this is the first change for 0.12
 * Something else added during the milestone process
 * Change added before the branching for 0.12
+* Change added after branching, before the second build
 
 ## 0.11.0_88f65ff (March 13, 2018)
 
