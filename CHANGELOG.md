@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.14.0_82355db (March 13, 2018)
+## 0.14.0_82355db (Built: March 13, 2018, Released: March 13, 2018)
 
 * Change for 0.14
 
