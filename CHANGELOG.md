@@ -2,7 +2,7 @@
 
 ## 0.15.0 (upcoming)
 
-* Pending changelog
+* This is a change for version 0.15.0
 
 ## 0.14.0_82355db (Built: March 13, 2018, Released: March 13, 2018)
 
