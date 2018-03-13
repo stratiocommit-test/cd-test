@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.12.0 (upcoming)
+## 0.13.0 (upcoming)
+
+* Pending changelog
+
+## 0.12.0_baf4b90 (March 13, 2018)
 
 * And this is the first change for 0.12
 * Something else added during the milestone process
