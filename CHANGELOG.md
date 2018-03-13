@@ -2,7 +2,7 @@
 
 ## 0.12.0 (upcoming)
 
-* Pending changelog
+* And this is the first change for 0.12
 
 ## 0.11.0_88f65ff (March 13, 2018)
 
