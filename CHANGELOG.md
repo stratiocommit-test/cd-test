@@ -2,7 +2,7 @@
 
 ## 0.13.0 (upcoming)
 
-* Pending changelog
+* Dockerfile
 
 ## 0.12.0_cb2b10b (Built: March 13, 2018, Released: March 13, 2018)
 
