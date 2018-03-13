@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.12.0_cb2b10b (March 13, 2018)
+## 0.12.0_cb2b10b (Built: March 13, 2018, Released: March 13, 2018)
 
 * And this is the first change for 0.12
 * Something else added during the milestone process
