@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.13.0_ef4b0cf (March 13, 2018)
+## 0.13.0_ef4b0cf (Built: March 13, 2018, Released: March 13, 2018)
 
 * Dockerfile
 
