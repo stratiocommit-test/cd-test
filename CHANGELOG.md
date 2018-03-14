@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.15.0_3ed69d6 (March 14, 2018)
+## 0.15.0_75b8e66 (March 14, 2018)
 
 * This is a change for version 0.15.0
 
