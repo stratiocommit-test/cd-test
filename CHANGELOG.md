@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.18.0 (upcoming)
+## 0.18.0 (April 13, 2018)
 
 * This is a change for version 0.18.0
 
