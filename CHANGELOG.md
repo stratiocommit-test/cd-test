@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.17.0_5c2fe43 (Built: April 13, 2018, unreleased)
+## 0.17.0_5c2fe43 (Built: Built: April 13, 2018, unreleased, Released: April 13, 2018)
 
 * This is a change for version 0.16.0
 
