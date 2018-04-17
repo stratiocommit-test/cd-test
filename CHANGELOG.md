@@ -4,9 +4,10 @@
 
 * Pending changelog
 
-## 0.20.0_5d6cecc (Built: April 17, 2018, unreleased)
+## 0.20.0_e7338c1 (Built: April 17, 2018, unreleased)
 
 * This is a change for version 0.20.0
+* This is another change for version 0.20.0
 
 ## 0.19.0_ff5a79c (Built: April 17, 2018, unreleased)
 
