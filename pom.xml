@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>cd-test</artifactId>
-    <version>0.22.2_${git.commit.id.abbrev}</version>
+    <version>0.22.2-SNAPSHOT</version>
 
     <properties>
         <javax.json.version>1.0.4</javax.json.version>
