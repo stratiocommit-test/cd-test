@@ -4,6 +4,10 @@
 
 * Pending changelog
 
+## 0.22.2_41a5cf1 (Built: April 18, 2018, Pre-release)
+
+* This is a change for version 0.22.2
+
 ## 0.22.1_9442b32 (Built: April 18, 2018, Released: April 18, 2018)
 
 * This is a change for version 0.22.1
