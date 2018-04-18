@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 0.22.2 (upcoming)
+## 0.22.2 (April 18, 2018)
 
 * This is a change for version 0.22.2
 
