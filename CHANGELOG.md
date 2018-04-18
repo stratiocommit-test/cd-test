@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.23.0 (upcoming)
+## 0.24.0 (upcoming)
+
+* Pending changelog
+
+## 0.23.0_fea46b4 (Built: April 18, 2018, Pre-release)
 
 * This is a change for version 0.23.0
 
