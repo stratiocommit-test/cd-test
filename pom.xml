@@ -28,4 +28,14 @@
         <junit.version>4.12</junit.version>
         <jsoup.version>1.8.3</jsoup.version>
     </properties>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.jacoco</groupId>
+                <artifactId>jacoco-maven-plugin</artifactId>
+                <version>0.7.5.201505241946</version>
+            </plugin>
+        </plugins>
+    </build>
 </project>
+
