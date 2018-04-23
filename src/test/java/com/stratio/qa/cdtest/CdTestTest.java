@@ -11,4 +11,10 @@ public class CdTestTest {
         CdTest.main(args);
         Assert.assertEquals("YES", "YES");
     }
+
+    @Test
+    public void classTest(){
+        CdTest test = new CdTest();
+        Assert.assertEquals("YES", "YES");
+    }
 }
