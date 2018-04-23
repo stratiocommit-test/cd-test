@@ -9,6 +9,7 @@ hose {
         echo 'THIS IS MASTER'
         doCompile(config)
         doPackage(config)
+        doStaticAnalysis(config)
         doDeploy(config)
         doDocker(config)
     }     
