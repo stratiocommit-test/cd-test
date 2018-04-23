@@ -8,6 +8,7 @@ hose {
     DEV = { config ->
         echo 'THIS IS MASTER'
         doCompile(config)
+        doUT(config)
         doPackage(config)
         doStaticAnalysis(config)
         doDeploy(config)
