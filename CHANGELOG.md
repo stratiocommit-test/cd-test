@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.24.0 (upcoming)
+## 0.25.0 (upcoming)
+
+* Pending changelog
+
+## 0.24.0-0c40804 (Built: May 04, 2018 | Pre-release)
 
 * This is a change for version 0.24.0
 
