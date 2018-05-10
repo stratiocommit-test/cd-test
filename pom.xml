@@ -18,7 +18,7 @@
         <version>0.10.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>cd-test</artifactId>
+    <artifactId>cd-test-1.2.3</artifactId>
     <version>0.29.0-SNAPSHOT-${revision}</version>
 
     <properties>
