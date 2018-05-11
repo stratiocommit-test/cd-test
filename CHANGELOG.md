@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.31.0-4d128ae (Built: May 11, 2018 | Pre-release)
+## 0.31.0-660d5fe (Built: May 11, 2018 | Pre-release)
 
 * This is a change for version 0.31.0
 
