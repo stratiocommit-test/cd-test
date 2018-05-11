@@ -18,8 +18,8 @@
         <version>0.10.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>cd-test-1.2.3</artifactId>
-    <version>0.29.0-SNAPSHOT-${revision}</version>
+    <artifactId>cd-test</artifactId>
+    <version>0.29.0-SNAPSHOT</version>
 
     <properties>
         <javax.json.version>1.0.4</javax.json.version>
