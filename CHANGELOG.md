@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.32.1-afd136e (Built: May 14, 2018 | Pre-release)
+## 0.32.1-afd136e (Built: May 14, 2018 | Released: May 14, 2018)
 
 * A hotfix change for version 0.32.1
 
