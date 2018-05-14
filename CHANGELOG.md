@@ -4,6 +4,10 @@
 
 * Pending changelog
 
+## 0.32.1-afd136e (Built: May 14, 2018 | Pre-release)
+
+* A hotfix change for version 0.32.1
+
 ## 0.32.0-5dc9c67 (Built: May 14, 2018 | Released: May 14, 2018)
 
 * A change for version 0.32.0
