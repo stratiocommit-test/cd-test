@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.32.2 (upcoming)
+
+* Another hotfix change for version 0.32.2
+
 ## 0.32.1 (May 14, 2018)
 
 * A hotfix change for version 0.32.1
