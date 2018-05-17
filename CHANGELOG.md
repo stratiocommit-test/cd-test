@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.32.3-c028809 (Built: May 17, 2018 | Pre-release)
+## 0.32.3-c028809 (Built: May 17, 2018 | Released: May 17, 2018)
 
 * Another further change for 0.32.3
 
