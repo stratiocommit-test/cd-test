@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.32.3 (upcoming)
+## 0.32.3 (May 17, 2018)
 
 * Another further change for 0.32.3
 
