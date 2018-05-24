@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.33.0 (upcoming)
+## 0.33.0 (May 24, 2018)
 
 * A change for version 0.33.0
 
