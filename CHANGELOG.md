@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.36.0 (upcoming)
+## 0.37.0 (upcoming)
+
+* Pending changelog
+
+## 0.36.0-6de25a9 (Built: June 13, 2018 | Pre-release)
 
 * Added testsAT pom.xml
 
