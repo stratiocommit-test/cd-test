@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.36.0 (upcoming)
+## 0.36.0 (June 13, 2018)
 
 * Added testsAT pom.xml
 
