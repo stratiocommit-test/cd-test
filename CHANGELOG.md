@@ -2,7 +2,7 @@
 
 ## 0.36.0 (upcoming)
 
-* Pending changelog
+* Added testsAT pom.xml
 
 ## 0.35.0-65e2452 (Built: May 25, 2018 | Released: May 25, 2018)
 
