@@ -5,10 +5,19 @@ hose {
     BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
 
+    ITSERVICES = [
+        ['ZOOKEEPER': [
+            'image': 'jplock/zookeeper:3.5.2-alpha',
+            'env': [
+                  'zk_id=1'],
+            'sleep': 30,
+            'healthcheck': 2181]]]
+    
     DEV = { config ->
         echo 'THIS IS MASTER'
         doCompile(config)
         doUT(config)
+        doIT(config)
         doPackage(config)
         doStaticAnalysis(config)
         doDeploy(config)
