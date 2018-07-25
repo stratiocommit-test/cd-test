@@ -3,7 +3,7 @@
 
 #### 0.38.0 (upcoming)
 
-#### 0.37.0-f66c910 (Built: June 22, 2018 | Pre-release)
+#### 0.37.0-f66c910 (Built: June 22, 2018 | Released: July 25, 2018)
 
 #### 0.36.0-6de25a9 (Built: June 13, 2018 | Pre-release)
 
