@@ -17,9 +17,9 @@ hose {
         echo 'THIS IS MASTER'
         doCompile(config)
         doUT(config)
-        doIT(config)
+        //doIT(config)
         doPackage(config)
-        doStaticAnalysis(config)
+        //doStaticAnalysis(config)
         doDeploy(config)
         doDocker(conf:config, buildargs:['TESTARG=test'])
     }     
