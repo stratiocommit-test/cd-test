@@ -4,7 +4,7 @@ hose {
     EMAIL = 'cd'
     BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
-    ANCHORE_TEST = true
+    ANCHORE_TEST = false
 
     ITSERVICES = [
         ['ZOOKEEPER': [
