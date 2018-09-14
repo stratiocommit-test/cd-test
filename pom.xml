@@ -19,7 +19,7 @@
     </parent>
 
     <artifactId>cd-test</artifactId>
-    <version>0.38.0-RC2-SNAPSHOT</version>
+    <version>0.38.0-RC2</version>
 
     <properties>
         <javax.json.version>1.0.4</javax.json.version>
