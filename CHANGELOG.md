@@ -4,6 +4,7 @@
 
 * Just one change
 * Another change
+* A change that should not make the whole pipeline trigger
 
 ## 0.38.0-9f6f332 (Built: September 14, 2018 | Pre-release)
 
