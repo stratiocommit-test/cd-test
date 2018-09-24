@@ -3,6 +3,7 @@
 ## 0.39.0 (upcoming)
 
 * Just one change
+* Another change
 
 ## 0.38.0-9f6f332 (Built: September 14, 2018 | Pre-release)
 
