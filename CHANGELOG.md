@@ -7,6 +7,7 @@
 * A change that should not make the whole pipeline trigger
 * Another change more
 * Another change extra
+* This could be it!
 
 ## 0.38.0-9f6f332 (Built: September 14, 2018 | Pre-release)
 
