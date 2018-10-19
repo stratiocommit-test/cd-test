@@ -4,6 +4,7 @@ hose {
     EMAIL = 'cd'
     BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
+    AGENT = 'ubuntu-base-ssh-1604-lp'
 
     ITSERVICES = [
         ['ZOOKEEPER': [
