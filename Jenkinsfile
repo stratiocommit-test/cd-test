@@ -4,7 +4,8 @@ hose {
     EMAIL = 'cd'
     BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
-    AGENT = 'ubuntu-base-ssh-1604-lp'
+    AGENT = 'ubuntu-base-ssh-1604'
+    ANCHORE_TEST = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
@@ -22,5 +23,6 @@ hose {
         //doStaticAnalysis(config)
         doDeploy(config)
         doDocker(conf:config, buildargs:['TESTARG=test'])
+	doDocker(conf:config, image:"cd-test2")
     }     
 }
