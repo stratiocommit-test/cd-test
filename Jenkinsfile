@@ -23,6 +23,6 @@ hose {
         //doStaticAnalysis(config)
         doDeploy(config)
         doDocker(conf:config, buildargs:['TESTARG=test'])
-	doDocker(conf:config, image:"cd-test2")
+	doDocker(conf:config, dockerfile: "Dockerfile.test2", image:"cd-test2")
     }     
 }
