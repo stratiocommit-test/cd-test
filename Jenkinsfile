@@ -23,6 +23,5 @@ hose {
         //doStaticAnalysis(config)
         doDeploy(config)
         doDocker(conf:config, dockerfile: "Dockerfile", image: "cd-test")
-	doDocker(conf:config, dockerfile: "Dockerfile.test2", image:"cd-test2")
     }     
 }
