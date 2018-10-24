@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.39.0 (upcoming)
+## 0.39.0 (October 24, 2018)
 
 * A change for version 0.39.0
 
