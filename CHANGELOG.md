@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.39.0-a976f3a (Built: October 24, 2018 | Pre-release)
+## 0.39.0-a976f3a (Built: October 24, 2018 | Released: October 24, 2018)
 
 * A change for version 0.39.0
 

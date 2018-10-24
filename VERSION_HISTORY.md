@@ -1,7 +1,7 @@
 # Version History
 
 
-#### 0.39.0-a976f3a (Built: October 24, 2018 | Pre-release)
+#### 0.39.0-a976f3a (Built: October 24, 2018 | Released: October 24, 2018)
 
 #### 0.38.0-9f6f332 (Built: September 14, 2018 | Pre-release)
 
