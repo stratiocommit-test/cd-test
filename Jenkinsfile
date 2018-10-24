@@ -21,8 +21,10 @@ hose {
         //doIT(config)
         doPackage(config)
         //doStaticAnalysis(config)
-        doDeploy(config)
-        //doDocker(conf:config, dockerfile: "Dockerfile", image: "cd-test")
-	doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
+	parallel(DEPLOY: {doDeploy(config)},
+		DOCKER: {doDocker(conf:config)},
+		failFast: config.FAILFAST)
+	
+	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
     }     
 }
