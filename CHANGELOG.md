@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.40.0 (upcoming)
+## 0.40.0 (Build: December 20, 2018)
 
-* Pending changelog
+* A change for version 0.40.0
 
 ## 0.39.0-a976f3a (Built: October 24, 2018 | Released: October 24, 2018)
 
