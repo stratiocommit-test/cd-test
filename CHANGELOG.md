@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.40.0-a024a9d (Built: December 26, 2018 | Pre-release)
+## 0.40.0-a024a9d (Built: December 26, 2018 | Released: December 26, 2018)
 
 * A change for version 0.40.0
 
