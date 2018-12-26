@@ -1,8 +1,12 @@
 # Changelog
 
-## 0.40.0 (upcoming)
+## 0.41.0 (upcoming)
 
 * Pending changelog
+
+## 0.40.0-a024a9d (Built: December 26, 2018 | Pre-release)
+
+* A change for version 0.40.0
 
 ## 0.39.0-a976f3a (Built: October 24, 2018 | Released: October 24, 2018)
 
