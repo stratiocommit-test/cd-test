@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.40.0 (Build: December 20, 2018)
+## 0.40.0 (December 26, 2018)
 
 * A change for version 0.40.0
 
