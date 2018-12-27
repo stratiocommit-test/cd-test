@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.41.0 (upcoming)
+## 0.41.0 (December 27, 2018)
 
 * A change for version 0.41.0
 
