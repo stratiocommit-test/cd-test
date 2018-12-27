@@ -20,7 +20,7 @@ hose {
         doUT(config)
         //doIT(config)
         doPackage(config)
-        //doStaticAnalysis(config)
+        doStaticAnalysis(conf: config)
 	parallel(DEPLOY: {doDeploy(config)},
 		DOCKER: {doDocker(conf:config)},
 		failFast: config.FAILFAST)
