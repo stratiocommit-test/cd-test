@@ -8,6 +8,10 @@
 
 * A change for version 0.42.0
 
+## 0.42.0-e3fb2c3 (Built: December 27, 2018 | Released: December 27, 2018)
+
+* A change for version 0.42.0
+
 ## 0.41.0-3d9f599 (Built: December 27, 2018 | Released: December 27, 2018)
 
 * A change for version 0.41.0
