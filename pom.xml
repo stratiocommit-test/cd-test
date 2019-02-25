@@ -28,6 +28,7 @@
         <jsoup.version>1.8.3</jsoup.version>
 	<maven.compiler.source>1.8</maven.compiler.source>
 	<maven.compiler.target>1.8</maven.compiler.target>
+	<cd-test-parent.version>0.0</cd-test-parent.version>
     </properties>
     <build>
         <plugins>
