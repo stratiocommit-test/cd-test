@@ -2,7 +2,7 @@
 
 ## 0.42.1 (upcoming)
 
-* Updated cd-test-parent.version to version 0.1.0-34f85eb
+* Updated cd-test-parent.version to version 0.1.0-127e3db
 
 ## 0.42.0 (December 27, 2018)
 
