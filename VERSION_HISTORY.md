@@ -1,6 +1,8 @@
 # Version History
 
 
+#### 0.42.1-34532c3 (Built: February 26, 2019 | Pre-release)
+
 #### 0.42.0-e3fb2c3 (Built: December 27, 2018 | Released: December 27, 2018)
 
 #### 0.41.0-3d9f599 (Built: December 27, 2018 | Released: December 27, 2018)
