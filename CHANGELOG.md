@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.42.1 (upcoming)
+## 0.42.1 (February 26, 2019)
 
 * Updated cd-test-parent.version to version 0.1.0-9ec669b
 
