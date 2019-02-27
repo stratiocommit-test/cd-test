@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM stratiocommit-test/cd-test-parent:0.2.0-SNAPSHOT
 MAINTAINER CD "cd@stratio.com"
 
 ARG VERSION
