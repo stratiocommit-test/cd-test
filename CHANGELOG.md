@@ -2,7 +2,7 @@
 
 ## 0.42.1 (February 27, 2019)
 
-* Updated cd-test-parent.version to version 0.1.0-a2c442a
+* Updated cd-test-parent.version to version 0.1.0-b88d2d3
 
 ## 0.42.0 (December 27, 2018)
 
