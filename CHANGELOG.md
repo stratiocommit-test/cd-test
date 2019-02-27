@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.43.0 (upcoming)
+## 0.43.0 (February 27, 2019)
 
 * A change for version 0.43.0
 * Updated cd-test-parent.version to version 0.5.0-14c40ba
