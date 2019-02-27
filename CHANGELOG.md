@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.43.0 (upcoming)
+## 0.44.0 (upcoming)
+
+* Pending changelog
+
+## 0.43.0-df3afb3 (Built: February 27, 2019 | Pre-release)
 
 * A change for version 0.43.0
 * Updated cd-test-parent.version to version 0.5.0-14c40ba
