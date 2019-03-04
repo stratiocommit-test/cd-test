@@ -18,9 +18,7 @@ hose {
         echo 'THIS IS MASTER'
         doCompile(config)
         doUT(config)
-        //doIT(config)
         doPackage(config)
-        doStaticAnalysis(conf: config)
 	parallel(DEPLOY: {doDeploy(config)},
 		DOCKER: {doDocker(conf:config)},
 		failFast: config.FAILFAST)
