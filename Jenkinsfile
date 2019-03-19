@@ -6,6 +6,8 @@ hose {
     NEW_VERSIONING = 'true'
     AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = true
+    FREESTYLE_BRANCHING = true
+    UPSTREAM_VERSION = '0.1.0'
 
     ITSERVICES = [
         ['ZOOKEEPER': [
