@@ -4,4 +4,4 @@ MAINTAINER CD "cd@stratio.com"
 ARG VERSION
 ARG TESTARG
 
-CMD ["tail -f /dev/null"]
+CMD ["tail", "-f", "/dev/null"]
