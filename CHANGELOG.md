@@ -2,7 +2,7 @@
 
 ## 0.44.0 (upcoming)
 
-* Pending changelog
+* A change for version 0.44.0
 
 ## 0.43.0-df3afb3 (Built: February 27, 2019 | Pre-release)
 
