@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.44.0 (upcoming)
+## 0.44.0 (March 22, 2019)
 
 * A change for version 0.44.0
 
