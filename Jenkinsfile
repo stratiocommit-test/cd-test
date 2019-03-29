@@ -19,7 +19,7 @@ hose {
         echo 'THIS IS MASTER'
         doCompile(config)
         doUT(config)
-        doPackage(config)
+        doPackage(conf: config, thirdparty: true)
 	parallel(DEPLOY: {doDeploy(conf: config, thirdparty: true)},
 		DOCKER: {doDocker(conf: config)},
 		failFast: config.FAILFAST)
