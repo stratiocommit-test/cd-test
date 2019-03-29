@@ -6,6 +6,7 @@ hose {
     NEW_VERSIONING = 'true'
     AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = true
+    DEPLOYONPRS = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
