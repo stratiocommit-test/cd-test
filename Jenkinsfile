@@ -19,7 +19,7 @@ hose {
         doCompile(config)
         doUT(config)
         doPackage(config)
-	parallel(DEPLOY: {doDeploy(config)},
+	parallel(DEPLOY: {doDeploy(conf:config,thirdparty:true)},
 		DOCKER: {doDocker(conf:config)},
 		failFast: config.FAILFAST)
 	
