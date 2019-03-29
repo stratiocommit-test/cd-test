@@ -6,6 +6,7 @@ hose {
     NEW_VERSIONING = 'true'
     AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = true
+    DEPLOYONPRS = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
@@ -19,8 +20,8 @@ hose {
         doCompile(config)
         doUT(config)
         doPackage(config)
-	parallel(DEPLOY: {doDeploy(conf:config,thirdparty:true)},
-		DOCKER: {doDocker(conf:config)},
+	parallel(DEPLOY: {doDeploy(conf: config, thirdparty: true)},
+		DOCKER: {doDocker(conf: config)},
 		failFast: config.FAILFAST)
 	
 	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
