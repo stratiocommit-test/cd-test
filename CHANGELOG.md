@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.45.1 (March 29, 2019)
+
+* A hotfix for version 0.45.1
+
 ## 0.45.0 (March 29, 2019)
 
 * A change for version 0.45.0
