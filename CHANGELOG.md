@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.45.0-36e62e9 (Built: March 29, 2019 | Pre-release)
+## 0.45.0-ae44cc4 (Built: March 29, 2019 | Pre-release)
 
 * A change for version 0.45.0
 
