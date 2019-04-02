@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.45.0-f3aa88b (Built: April 02, 2019 | Pre-release)
+## 0.45.0-f3aa88b (Built: April 02, 2019 | Released: April 02, 2019)
 
 * A change for version 0.45.0
 
