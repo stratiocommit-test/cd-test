@@ -2,7 +2,7 @@
 
 ## 0.46.0 (upcoming)
 
-* Pending changelog
+* A change with "quotes"
 
 ## 0.45.0-f3aa88b (Built: April 02, 2019 | Released: April 02, 2019)
 
