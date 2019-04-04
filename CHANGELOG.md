@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.2 (Upcoming)
+## 0.45.2 (April 04, 2019)
 
 * A hotfix with "quotes"
 
