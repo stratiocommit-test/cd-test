@@ -28,6 +28,7 @@ hose {
 			withCredentials([string(credentialsId: 'TEST_SECRET_TEXT', variable: 'TEXT')]) {
 				echo "TEXT is: ${TEXT}"
 				echo TEXT
+				sh script: 'echo $TEXT'
 			}
 	    }
 //			},
