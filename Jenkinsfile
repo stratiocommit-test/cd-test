@@ -22,7 +22,12 @@ hose {
         doIT(config)
         doPackage(config)
 	parallel(DEPLOY: {doDeploy(conf: config)},
-		DOCKER: {doDocker(conf: config)},
+		DOCKER: {
+			withCredentials([usernamePassword(credentialsId: 'TEST_GLOBAL_CREDENTIALS', passwordVariable: 'PASS', usernameVariable: 'USER')]) {
+				echo "PASS is: ${PASS}"				
+    				doDocker(conf: config)
+			}
+			},
 		failFast: config.FAILFAST)
 	
 	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
