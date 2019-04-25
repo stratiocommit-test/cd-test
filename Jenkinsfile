@@ -23,13 +23,14 @@ hose {
 //        doPackage(config)
 //	parallel(DEPLOY: {doDeploy(conf: config)},
 //		DOCKER: {
-	    def PASS = ""
+	    def result = ""
 	    node (config.AGENT) {
 			withCredentials([string(credentialsId: 'TEST_SECRET_TEXT', variable: 'TEXT')]) {
-				def result = sh script: 'echo $TEXT', returnStdout: true
+				result = sh script: 'echo $TEXT', returnStdout: true
 				echo "Result is: ${result}"
 			}
 	    }
+	    echo "Result is: ${result}"
 //			},
 //failFast: config.FAILFAST)
 	
