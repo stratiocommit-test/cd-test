@@ -26,7 +26,8 @@ hose {
 	    def PASS = ""
 	    node (config.AGENT) {
 			withCredentials([string(credentialsId: 'TEST_SECRET_TEXT', variable: 'TEXT')]) {
-				echo "TEXT is: ${TEXT}"				
+				echo "TEXT is: ${TEXT}"
+				echo TEXT
 			}
 	    }
 //			},
