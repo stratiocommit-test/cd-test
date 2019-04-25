@@ -25,8 +25,8 @@ hose {
 //		DOCKER: {
 	    def PASS = ""
 	    node (config.AGENT) {
-			withCredentials([usernamePassword(credentialsId: 'TEST_GLOBAL_CREDENTIALS', passwordVariable: 'PASS', usernameVariable: 'USER')]) {
-				echo "PASS is: ${PASS}"				
+			withCredentials([string(credentialsId: 'TEST_SECRET_TEXT', variable: 'TEXT')]) {
+				echo "TEXT is: ${TEXT}"				
 			}
 	    }
 //			},
