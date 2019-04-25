@@ -23,10 +23,12 @@ hose {
 //        doPackage(config)
 //	parallel(DEPLOY: {doDeploy(conf: config)},
 //		DOCKER: {
+	    def PASS = ""
+	    node (config.AGENT) {
 			withCredentials([usernamePassword(credentialsId: 'TEST_GLOBAL_CREDENTIALS', passwordVariable: 'PASS', usernameVariable: 'USER')]) {
 				echo "PASS is: ${PASS}"				
-    				doDocker(conf: config)
 			}
+	    }
 //			},
 //failFast: config.FAILFAST)
 	
