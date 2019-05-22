@@ -17,23 +17,14 @@ hose {
     
     DEV = { config ->
         echo 'THIS IS MASTER'
-//        doCompile(config)
-//        doUT(config)
-//        doIT(config)
-//        doPackage(config)
-//	parallel(DEPLOY: {doDeploy(conf: config)},
-//		DOCKER: {
-	    def result = ""
-	    node (config.AGENT) {
-			withCredentials([string(credentialsId: 'TEST_SECRET_TEXT', variable: 'TEXT')]) {
-				result = sh script: 'echo $TEXT', returnStdout: true
-				echo "Result is: ${result}"
-			}
-	    }
-	    echo "Result is: ${result}"
-//			},
-//failFast: config.FAILFAST)
-	
+        doCompile(config)
+        doUT(config)
+        doIT(config)
+        doPackage(config)
+	parallel(DEPLOY: {doDeploy(conf: config)},
+		DOCKER: {doDocker(conf: config)},
+		failFast: config.FAILFAST)
+	sh "ls -la target/"
 	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
     }     
 }
