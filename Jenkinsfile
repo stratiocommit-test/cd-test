@@ -23,7 +23,6 @@ hose {
 	parallel(DEPLOY: {doDeploy(conf: config, thirdparty: true)},
 		DOCKER: {doDocker(conf: config)},
 		failFast: config.FAILFAST)
-	sh "ls -al target"
 	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
     }     
 }
