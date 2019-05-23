@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.45.3 (Upcoming)
+
+* Other hotfix
+
 ## 0.45.2 (May 23, 2019)
 
 * A hotfix with "quotes"
