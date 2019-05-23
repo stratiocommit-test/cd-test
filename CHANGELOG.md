@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.4 (Upcoming)
+## 0.45.4 (May 23, 2019)
 
 * Other hotfix II
 
