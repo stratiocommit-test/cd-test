@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.45.5 (May 23, 2019)
+
+* Enabled doDocker again
+
 ## 0.45.4 (May 23, 2019)
 
 * Other hotfix II
