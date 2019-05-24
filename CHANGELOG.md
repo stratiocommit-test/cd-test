@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.6 (Upcoming)
+## 0.45.6 (May 24, 2019)
 
 * Hotfix
 
