@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.8 (Upcoming)
+## 0.45.8 (May 24, 2019)
 
 * More artifacts with deployed-record
 
