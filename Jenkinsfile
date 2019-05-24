@@ -7,7 +7,6 @@ hose {
     AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = true
     DEPLOYONPRS = true
-    ARTIFACTS_TO_FTP = [ 'cd-test:zip:bin', 'cd-test:tar.gz:bin' ]
 
     ITSERVICES = [
         ['ZOOKEEPER': [
@@ -22,7 +21,7 @@ hose {
         doUT(config)
         doPackage(conf: config, thirdparty: true)
 	parallel(DEPLOY: {doDeploy(conf: config)},
-               DOCKER: {doDocker(conf: config)},
+//              DOCKER: {doDocker(conf: config)},
                failFast: config.FAILFAST)
 	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
     }     
