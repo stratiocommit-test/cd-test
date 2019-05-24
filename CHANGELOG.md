@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.7 (Upcoming)
+## 0.45.8 (Upcoming)
 
 * More artifacts with deployed-record
 
