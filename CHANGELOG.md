@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.45.7 (May 24, 2019)
+
+* More artifacts
+
 ## 0.45.6 (May 24, 2019)
 
 * Hotfix

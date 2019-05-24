@@ -7,7 +7,7 @@ hose {
     AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = true
     DEPLOYONPRS = true
-    ARTIFACTS_TO_FTP = [ 'cd-test:zip:bin', 'cd-test:tag.gz:bin' ]
+    ARTIFACTS_TO_FTP = [ 'cd-test:zip:bin', 'cd-test:tar.gz:bin' ]
 
     ITSERVICES = [
         ['ZOOKEEPER': [
