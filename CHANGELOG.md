@@ -2,7 +2,7 @@
 
 ## 0.47.0 (upcoming)
 
-* Pending changelog
+* This is a great feature
 
 ## 0.46.0-8aac4ee (Built: June 07, 2019 | Pre-release)
 
