@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.47.0 (upcoming)
+## 0.48.0 (upcoming)
+
+* Pending changelog
+
+## 0.47.0-23dc2f9 (Built: June 07, 2019 | Pre-release)
 
 * This is a great feature
 
