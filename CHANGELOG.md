@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.46.0 (upcoming)
+## 0.46.0 (June 07, 2019)
 
 * A change with "quotes"
 
