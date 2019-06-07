@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.46.0-59f5be9 (Built: June 07, 2019 | Pre-release)
+## 0.46.0-9c7640b (Built: June 07, 2019 | Pre-release)
 
 * A change with "quotes"
 
