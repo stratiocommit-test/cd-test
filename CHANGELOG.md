@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.46.0 (upcoming)
+## 0.47.0 (upcoming)
+
+* Pending changelog
+
+## 0.46.0-59f5be9 (Built: June 07, 2019 | Pre-release)
 
 * A change with "quotes"
 
