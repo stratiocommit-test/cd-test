@@ -13,7 +13,7 @@ hose {
             'image': 'jplock/zookeeper:3.5.2-alpha',
             'env': [
                   'zk_id=1'],
-            'sleep': 30]]]
+            'sleep': 5]]]
     
     DEV = { config ->
         echo 'THIS IS MASTER'
