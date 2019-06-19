@@ -18,6 +18,7 @@ hose {
     
     DEV = { config ->
         echo 'THIS IS MASTER'
+	echo env.GIT_BRANCH
         doCompile(config)
         doUT(config)
         doIT(config)
