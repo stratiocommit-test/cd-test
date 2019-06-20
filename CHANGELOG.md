@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.47.0-23dc2f9 (Built: June 07, 2019 | Pre-release)
+## 0.47.0-d46d12f (Built: June 20, 2019 | Pre-release)
 
 * This is a great feature
 
