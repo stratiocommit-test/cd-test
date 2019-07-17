@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.10 (Upcoming)
+## 0.45.10 (July 17, 2019)
 
 * Docker to sftp test 2
 
