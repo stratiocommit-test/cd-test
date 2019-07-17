@@ -9,6 +9,7 @@ hose {
     DEPLOYONPRS = true
     PKGMODULESNAMES = ['cd-test']
     MODULE = 'cd-test'
+    DOCKERHUBSKIP = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
