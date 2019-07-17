@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.45.9 (Upcoming)
+## 0.45.9 (July 17, 2019)
 
 * Docker to sftp
 
