@@ -7,6 +7,8 @@ hose {
     AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = true
     DEPLOYONPRS = true
+    PKGMODULESNAMES = ['cd-test']
+    MODULE = 'cd-test'
 
     ITSERVICES = [
         ['ZOOKEEPER': [
@@ -21,7 +23,7 @@ hose {
         doUT(config)
         doPackage(conf: config, thirdparty: true)
 	parallel(DEPLOY: {doDeploy(conf: config)},
-//              DOCKER: {doDocker(conf: config)},
+              DOCKER: {doDocker(conf: config)},
                failFast: config.FAILFAST)
 	//doDockers(conf:config, dockerImages:[[conf:config, dockerfile: "Dockerfile", image: "cd-test"], [conf:config, dockerfile:"Dockerfile.test2", image: "cd-test2"]])
     }     
