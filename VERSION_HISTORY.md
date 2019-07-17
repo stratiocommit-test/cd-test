@@ -5,6 +5,8 @@
 
 #### 0.46.0-8aac4ee (Built: June 07, 2019 | Pre-release)
 
+#### 0.45.10-135b4d5 (Built: July 17, 2019 | Pre-release)
+
 #### 0.45.9-11fce63 (Built: July 17, 2019 | Released: July 17, 2019)
 
 #### 0.45.8-66c0688 (Built: May 24, 2019 | Released: May 24, 2019)
