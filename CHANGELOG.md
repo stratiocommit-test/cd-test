@@ -3,7 +3,7 @@
 ## 0.48.0 (upcoming)
 
 * Pending changelog
-
+* Updated cd-test-parent.version to version 0.5.0-3f21db2
 ## 0.47.0-d46d12f (Built: June 20, 2019 | Pre-release)
 
 * This is a great feature
