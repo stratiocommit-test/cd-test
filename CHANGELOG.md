@@ -21,19 +21,19 @@
 
 * A change for version 0.44.0
 
-## 0.43.0-9bc8685 (Built: July 26, 2019 | Pre-release)
+## 0.43.0-08acbfb (Built: July 26, 2019 | Pre-release)
 
 * A change for version 0.43.0
-* Updated cd-test-parent.version to version 0.5.0-f932c07
+* Updated cd-test-parent.version to version 0.5.0-0ad18b4
 
 ## 0.42.0 (December 27, 2018)
 
 * A change for version 0.42.0
 
-## 0.43.0-9bc8685 (Built: July 26, 2019 | Pre-release)
+## 0.43.0-08acbfb (Built: July 26, 2019 | Pre-release)
 
 * A change for version 0.43.0
-* Updated cd-test-parent.version to version 0.5.0-f932c07
+* Updated cd-test-parent.version to version 0.5.0-0ad18b4
 
 ## 0.42.0 (December 27, 2018)
 
