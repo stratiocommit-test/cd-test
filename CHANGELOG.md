@@ -3,7 +3,7 @@
 ## 0.43.0 (July 26, 2019)
 
 * A change for version 0.43.0
-* Updated cd-test-parent.version to version 0.5.0-f932c07
+* Updated cd-test-parent.version to version 0.5.0-0ad18b4
 
 ## 0.42.0 (December 27, 2018)
 
