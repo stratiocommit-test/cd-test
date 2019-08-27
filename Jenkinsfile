@@ -5,9 +5,9 @@ hose {
     BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
     AGENT = 'ubuntu-base-ssh-1604'
-    ANCHORE_TEST = true
-    DEPLOYONPRS = true
-    GENERATE_QA_ISSUE = true
+    ANCHORE_TEST = false
+    DEPLOYONPRS = false
+    GENERATE_QA_ISSUE = false
 
     ITSERVICES = [
         ['ZOOKEEPER': [
@@ -25,5 +25,6 @@ hose {
 	parallel(DEPLOY: {doDeploy(conf: config)},
 		DOCKER: {doDocker(conf: config)},
 		failFast: config.FAILFAST)
+	doAT(config)
     }     
 }
