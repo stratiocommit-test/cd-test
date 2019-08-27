@@ -15,6 +15,14 @@ hose {
             'env': [
                   'zk_id=1'],
             'sleep': 5]]]
+
+	ATSERVICES = [
+		['ZOOKEEPER': [
+			'image': 'jplock/zookeeper:3.5.2-alpha',
+			'env': [
+				'zk_id=1',
+				'USER=\$REMOTE_USER'],
+			'sleep': 5]]]
     
     DEV = { config ->
         echo 'THIS IS MASTER'
