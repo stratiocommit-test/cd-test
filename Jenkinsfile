@@ -25,6 +25,6 @@ hose {
 	parallel(DEPLOY: {doDeploy(conf: config)},
 		DOCKER: {doDocker(conf: config)},
 		failFast: config.FAILFAST)
-	doAT(config)
+	doAT(conf: config, environmentAuth: "jumanji")
     }     
 }
