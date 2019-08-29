@@ -5,18 +5,17 @@ import org.testng.annotations.Test;
 
 public class CdIT {
 
-    @Test(groups={"integration"})
-    public void exampleIntegrationTest() throws Exception{
+    @Test
+    public void exampleIntegrationTest(){
         String[] args = new String[2];
         CdTest.main(args);
         try {
-            System.out.println("Waiting for 1 seconds");
-            Thread.sleep(1000);
+            System.out.println("Waiting for 100 seconds");
+            Thread.sleep(100000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
         Assert.assertEquals("YES", "YES");
-        throw new Exception("On purpose exception");
     }
 
     @Test
