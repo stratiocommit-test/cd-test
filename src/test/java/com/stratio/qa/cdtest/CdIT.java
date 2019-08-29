@@ -3,9 +3,9 @@ package com.stratio.qa.cdtest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class CdTestIT {
+public class CdIT {
 
-    @Test
+    @Test(groups={"integration"})
     public void exampleIntegrationTest(){
         String[] args = new String[2];
         CdTest.main(args);
