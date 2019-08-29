@@ -3,14 +3,14 @@ package com.stratio.qa.cdtest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class CdTestTest {
+public class CdTestIT {
 
     @Test
-    public void exampleUnitTest(){
+    public void exampleIntegrationTest(){
         String[] args = new String[2];
         CdTest.main(args);
         try {
-            System.out.println("Waiting for 5 seconds");
+            System.out.println("Waiting for 10 seconds");
             Thread.sleep(10000);
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -19,7 +19,7 @@ public class CdTestTest {
     }
 
     @Test
-    public void classTest(){
+    public void classIntegrationTest(){
         CdTest test = new CdTest();
         Assert.assertEquals("YES", "YES");
     }
