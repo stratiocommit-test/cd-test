@@ -16,6 +16,7 @@ public class CdTestTest {
             e.printStackTrace();
         }
         Assert.assertEquals("YES", "YES");
+        throw new Exception("On purpose exception");
     }
 
     @Test
