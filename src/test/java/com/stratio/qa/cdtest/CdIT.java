@@ -11,7 +11,7 @@ public class CdIT {
         CdTest.main(args);
         try {
             System.out.println("Waiting for 100 seconds");
-            Thread.sleep(100000);
+            Thread.sleep(10000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
