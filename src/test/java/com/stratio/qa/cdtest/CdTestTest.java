@@ -11,7 +11,7 @@ public class CdTestTest {
         CdTest.main(args);
         try {
             System.out.println("Waiting for 5 seconds");
-            Thread.sleep(50000);
+            Thread.sleep(500000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
