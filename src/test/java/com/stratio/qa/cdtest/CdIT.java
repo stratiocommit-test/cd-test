@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class CdIT {
 
     @Test
-    public void exampleIntegrationTest(){
+    public void exampleIntegrationTest() throws Exception{
         String[] args = new String[2];
         CdTest.main(args);
         try {
@@ -16,6 +16,7 @@ public class CdIT {
             e.printStackTrace();
         }
         Assert.assertEquals("YES", "YES");
+        throw new Exception("On purpose exception");
     }
 
     @Test
