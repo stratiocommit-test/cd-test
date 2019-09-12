@@ -8,6 +8,7 @@ hose {
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
+    LABEL_CONTROL = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
