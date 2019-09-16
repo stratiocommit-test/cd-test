@@ -28,7 +28,7 @@ hose {
     DEV = { config ->
         echo 'THIS IS MASTER'
         node(config.AGENT) {
-           withCredentials([sshUserPrivateKey(credentialsId: 'VPRE', keyFileVariable: 'KEY', passphraseVariable: '', usernameVariable: 'USER')]) {
+           withCredentials([sshUserPrivateKey(credentialsId: 'BERILIO_KEY', keyFileVariable: 'KEY', passphraseVariable: '', usernameVariable: 'USER')]) {
               def test1 = this.env.KEY
               def test2 = this.env.USER
               echo test2
