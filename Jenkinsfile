@@ -24,13 +24,15 @@ hose {
 				'zk_id=1',
 				'USER=\$REMOTE_USER'],
 			'sleep': 5]]]
-    
+
     DEV = { config ->
         echo 'THIS IS MASTER'
-         withCredentials([sshUserPrivateKey(credentialsId: 'VPRE', keyFileVariable: 'KEY', passphraseVariable: '', usernameVariable: 'USER')]) {
-            def test1 = this.env.KEY
-            def test2 = this.env.USER
-            echo test2
+        node(config.AGENT) {
+           withCredentials([sshUserPrivateKey(credentialsId: 'VPRE', keyFileVariable: 'KEY', passphraseVariable: '', usernameVariable: 'USER')]) {
+              def test1 = this.env.KEY
+              def test2 = this.env.USER
+              echo test2
+           }
          }
         doCompile(config)
         parallel(UT: {doUT(config)},
