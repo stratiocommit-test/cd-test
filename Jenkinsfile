@@ -27,6 +27,11 @@ hose {
     
     DEV = { config ->
         echo 'THIS IS MASTER'
+         withCredentials([sshUserPrivateKey(credentialsId: 'VPRE', keyFileVariable: 'KEY', passphraseVariable: '', usernameVariable: 'USER')]) {
+            def test1 = this.env.KEY
+            def test2 = this.env.USER
+            echo test2
+         }
         doCompile(config)
         parallel(UT: {doUT(config)},
             IT: {doIT(config)},
