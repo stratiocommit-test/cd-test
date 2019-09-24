@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.47.0 (June 20, 2019)
+## 0.47.0 (September 24, 2019)
 
 * This is a great feature
 
