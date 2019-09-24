@@ -21,7 +21,7 @@
 
 * A change for version 0.44.0
 
-## 0.43.0-2c3f594 (Built: September 24, 2019 | Pre-release)
+## 0.43.0-01b2924 (Built: September 24, 2019 | Pre-release)
 
 * A change for version 0.43.0
 * Updated cd-test-parent.version to version 0.5.0-55bd81e
@@ -30,7 +30,7 @@
 
 * A change for version 0.42.0
 
-## 0.43.0-2c3f594 (Built: September 24, 2019 | Pre-release)
+## 0.43.0-01b2924 (Built: September 24, 2019 | Pre-release)
 
 * A change for version 0.43.0
 * Updated cd-test-parent.version to version 0.5.0-55bd81e
