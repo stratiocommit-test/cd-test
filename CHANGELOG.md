@@ -21,7 +21,7 @@
 
 * A change for version 0.44.0
 
-## 0.43.0-6becb19 (Built: September 24, 2019 | Pre-release)
+## 0.43.0-6becb19 (Built: September 24, 2019 | Released: September 25, 2019)
 
 * A change for version 0.43.0
 * Updated cd-test-parent.version to version 0.5.0-55bd81e
