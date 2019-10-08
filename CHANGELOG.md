@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.43.1 (Upcoming)
+## 0.43.1 (October 08, 2019)
 
 * A bugfix
 
