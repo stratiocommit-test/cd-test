@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.43.1 (Upcoming)
+
+* A bugfix
+
 ## 0.43.0 (September 24, 2019)
 
 * A change for version 0.43.0
