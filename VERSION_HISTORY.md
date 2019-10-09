@@ -27,6 +27,8 @@
 
 #### 0.44.0-35c618f (Built: March 22, 2019 | Released: March 22, 2019)
 
+#### 0.43.3-7048fbe (Built: October 09, 2019 | Pre-release)
+
 #### 0.43.2-b5117a1 (Built: October 09, 2019 | Pre-release)
 
 #### 0.43.1-1e8dee6 (Built: October 08, 2019 | Released: October 08, 2019)
