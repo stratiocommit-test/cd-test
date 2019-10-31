@@ -20,7 +20,7 @@
 
     <artifactId>cd-test</artifactId>
     <version>0.48.0-SNAPSHOT</version>
-
+	    <!-- harmless change for testing -->
     <properties>
 	<revision>0.48.0</revision>
 	<sha1/>
