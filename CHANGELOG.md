@@ -3,6 +3,7 @@
 ## 0.48.0 (upcoming)
 
 * Updated cd-test-parent.version to version 0.5.0-f589efe
+* Phony change
 
 ## 0.47.0-48cecb3 (Built: September 24, 2019 | Released: September 25, 2019)
 
