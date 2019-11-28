@@ -3,6 +3,6 @@ MAINTAINER "cd@stratio.com"
 
 ARG VERSION
 
-ADD target/cd-test-$VERSION.jar /
+COPY target/cd-test-$VERSION.jar /
 
 CMD ["/usr/bin/tail", "-f", "/dev/null"]
