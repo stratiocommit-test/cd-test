@@ -1,7 +1,7 @@
 # Version History
 
 
-#### 0.48.0-e2f708a (Built: December 04, 2019 | Pre-release)
+#### 0.48.0-a9eb34a (Built: December 04, 2019 | Pre-release)
 
 #### 0.47.0-48cecb3 (Built: September 24, 2019 | Released: September 25, 2019)
 

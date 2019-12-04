@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.48.0-e2f708a (Built: December 04, 2019 | Pre-release)
+## 0.48.0-a9eb34a (Built: December 04, 2019 | Pre-release)
 
 * Updated cd-test-parent.version to version 0.5.0-f589efe
 
