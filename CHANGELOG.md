@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.48.0 (upcoming)
+## 0.48.0 (December 04, 2019)
 
 * Updated cd-test-parent.version to version 0.5.0-f589efe
 
