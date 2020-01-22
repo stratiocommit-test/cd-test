@@ -1,11 +1,11 @@
-@Library('libpipelines@snapshotBuilds') _
+@Library('libpipelines@master') _
 
 hose {
     EMAIL = 'cd'
     BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
     AGENT = 'ubuntu-base-ssh-1604'
-    ANCHORE_TEST = false
+    ANCHORE_TEST = test
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
     DYNAMIC_VERSIONING = true
