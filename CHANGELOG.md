@@ -4,7 +4,7 @@
 
 * Adding "!" to "Hello World!"
 
-## 0.49.0-42079d7 (Built: January 22, 2020 | Pre-release)
+## 0.49.0-42079d7 (Built: January 22, 2020 | Released: January 22, 2020)
 
 * Trying to build a new release
 
