@@ -2,7 +2,7 @@
 
 ## 0.50.0 (upcoming)
 
-* Pending changelog
+* Adding "!" to "Hello World!"
 
 ## 0.49.0-0db63be (Built: January 22, 2020 | Pre-release)
 
