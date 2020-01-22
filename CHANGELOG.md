@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.49.0 (upcoming)
+## 0.49.0 (January 22, 2020)
 
 * Trying to build a new release
 
