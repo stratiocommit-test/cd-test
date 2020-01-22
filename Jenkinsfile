@@ -1,4 +1,4 @@
-@Library('libpipelines@master') _
+@Library('libpipelines@snapshotBuilds') _
 
 hose {
     EMAIL = 'cd'
