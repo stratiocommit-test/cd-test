@@ -2,7 +2,7 @@
 
 ## 0.49.0 (upcoming)
 
-* Pending changelog
+* Trying to build a new release
 
 ## 0.48.0-a9eb34a (Built: December 04, 2019 | Pre-release)
 
