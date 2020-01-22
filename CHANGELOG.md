@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.49.0 (upcoming)
+## 0.50.0 (upcoming)
+
+* Pending changelog
+
+## 0.49.0-0db63be (Built: January 22, 2020 | Pre-release)
 
 * Trying to build a new release
 
