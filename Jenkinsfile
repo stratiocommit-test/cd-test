@@ -1,4 +1,4 @@
-@Library('libpipelines@master') _
+@Library('libpipelines@snapshotBuilds') _
 
 hose {
     EMAIL = 'cd'
@@ -8,7 +8,7 @@ hose {
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
-    DYNAMIC_VERSIONING = true
+    SKIP_SNAPSHOT_CHECK = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
