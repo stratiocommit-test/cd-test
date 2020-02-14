@@ -8,7 +8,6 @@ hose {
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
-    SKIP_SNAPSHOT_CHECK = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
