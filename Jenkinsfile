@@ -1,4 +1,4 @@
-@Library('libpipelines@renamingImages') _
+@Library('libpipelines@snapshotBuilds') _
 
 hose {
     EMAIL = 'cd'
@@ -8,7 +8,6 @@ hose {
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
-    SKIP_SNAPSHOT_CHECK =
 
     ITSERVICES = [
         ['ZOOKEEPER': [
