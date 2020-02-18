@@ -1,4 +1,4 @@
-@Library('libpipelines@snapshotBuilds') _
+@Library('libpipelines@renamingImages') _
 
 hose {
     EMAIL = 'cd'
@@ -8,7 +8,7 @@ hose {
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
-    SKIP_SNAPSHOT_CHECK = true
+    SKIP_SNAPSHOT_CHECK =
 
     ITSERVICES = [
         ['ZOOKEEPER': [
@@ -27,13 +27,6 @@ hose {
 
     DEV = { config ->
         echo 'THIS IS MASTER'
-        node(config.AGENT) {
-           withCredentials([sshUserPrivateKey(credentialsId: 'BERILIO_KEY', keyFileVariable: 'KEY', passphraseVariable: '', usernameVariable: 'USER')]) {
-              def test1 = this.env.KEY
-              def test2 = this.env.USER
-              echo test2
-           }
-         }
         doCompile(config)
         parallel(UT: {doUT(config)},
             IT: {doIT(config)},
@@ -42,5 +35,6 @@ hose {
 	parallel(DEPLOY: {doDeploy(conf: config)},
 		DOCKER: {doDocker(conf: config)},
 		failFast: config.FAILFAST)
+		doRenameImages(conf: config)
     }
 }
