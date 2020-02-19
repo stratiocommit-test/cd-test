@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.50.0 (upcoming)
+## 0.50.0 (February 19, 2020)
 
 * Adding "!" to "Hello World!"
 
