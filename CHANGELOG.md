@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.50.0 (upcoming)
+## 0.51.0 (upcoming)
+
+* Pending changelog
+
+## 0.50.0-8828aaf (Built: February 19, 2020 | Pre-release)
 
 * Adding "!" to "Hello World!"
 
