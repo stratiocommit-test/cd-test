@@ -1,7 +1,7 @@
 # Version History
 
 
-#### 0.50.1-c383c34 (Built: February 20, 2020 | Pre-release)
+#### 0.50.1-c7bc9f4 (Built: February 20, 2020 | Pre-release)
 
 #### 0.50.0-2f89cc1 (Built: February 20, 2020 | Released: February 20, 2020)
 
