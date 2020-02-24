@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.50.2 (Upcoming)
+
+*  Trying to build a new release
+
 ## 0.50.1 (February 20, 2020)
 
 *  Trying to build a new release
