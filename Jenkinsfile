@@ -27,13 +27,11 @@ hose {
     DEV = { config ->
         echo 'THIS IS MASTER'
         doCompile(config)
-        parallel(UT: {doUT(config)},
-            IT: {doIT(config)},
-            failFast: config.FAILFAST)
+        doUT(config),
+        doIT(config),
         doPackage(config)
-	parallel(DEPLOY: {doDeploy(conf: config)},
-		DOCKER: {doDocker(conf: config)},
-		failFast: config.FAILFAST)
+	    doDeploy(conf: config),
+		doDocker(conf: config),
 		doRenameImages(conf: config)
     }
 }
