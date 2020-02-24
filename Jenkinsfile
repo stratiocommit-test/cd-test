@@ -27,11 +27,11 @@ hose {
     DEV = { config ->
         echo 'THIS IS MASTER'
         doCompile(config)
-        doUT(config),
-        doIT(config),
+        doUT(config)
+        doIT(config)
         doPackage(config)
-	    doDeploy(conf: config),
-		doDocker(conf: config),
+	    doDeploy(conf: config)
+		doDocker(conf: config)
 		doRenameImages(conf: config)
     }
 }
