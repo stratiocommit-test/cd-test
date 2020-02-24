@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.50.3 (Upcoming)
+
+*  Trying auto-renaming docker images
+
 ## 0.50.2 (February 24, 2020)
 
 *  Trying to build a new release
