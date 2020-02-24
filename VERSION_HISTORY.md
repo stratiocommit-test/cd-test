@@ -1,7 +1,7 @@
 # Version History
 
 
-#### 0.50.2-bac653a (Built: February 24, 2020 | Pre-release)
+#### 0.50.2-bac653a (Built: February 24, 2020 | Released: February 24, 2020)
 
 #### 0.50.1-31388e2 (Built: February 20, 2020 | Released: February 24, 2020)
 
