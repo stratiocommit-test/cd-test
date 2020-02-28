@@ -2,7 +2,7 @@
 
 ## 0.50.8 (Upcoming)
 
-*  Rename docker images - finally
+*  Rename docker images - finally2
 
 ## 0.50.7 (February 28, 2020)
 
