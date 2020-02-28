@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.50.8 (Upcoming)
+
+*  Rename docker images - finally
+
 ## 0.50.7 (February 28, 2020)
 
 *  Rename docker images - finally
