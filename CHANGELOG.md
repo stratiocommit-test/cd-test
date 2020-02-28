@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.50.8 (Upcoming)
+## 0.50.8 (February 28, 2020)
 
 *  Rename docker images - finally2
 
