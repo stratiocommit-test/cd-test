@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 0.50.6 (Upcoming)
+
+*  Rename docker images
+
 ## 0.50.5 (February 28, 2020)
 
 *  Trying auto-renaming docker images again
