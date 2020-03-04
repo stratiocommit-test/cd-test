@@ -1,4 +1,4 @@
-FROM stratiocommit-test/cd-test-parent:0.5.0-a3e7b36
+FROM stratiocommit-test/cd-test-parent:0.5.0-8c0baa3
 MAINTAINER CD "cd@stratio.com"
 
 ARG VERSION
