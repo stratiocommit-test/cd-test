@@ -25,7 +25,7 @@ hose {
 			'sleep': 5]]]
 
     DEV = { config ->
-        echo 'THIS IS MASTER'
+        echo 'THIS IS MASTER AGAIN'
         doCompile(config)
         doUT(config)
         doIT(config)

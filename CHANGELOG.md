@@ -2,7 +2,12 @@
 
 ## 0.51.0 (upcoming)
 
-* Pending changelog
+* Just one change
+* Another change
+* A change that should not make the whole pipeline trigger
+* Another change more
+* Another change extra
+* This could be it!
 
 ## 0.50.0-2f89cc1 (Built: February 20, 2020 | Released: February 20, 2020)
 
