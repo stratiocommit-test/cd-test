@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.43.4 (upcoming)
+## 0.43.4 (March 04, 2020)
 
 * Updated cd-test-parent.version to version 0.5.0-a3e7b36
 
