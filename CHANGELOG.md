@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.43.4 (upcoming)
+
+* Updated cd-test-parent.version to version 0.5.0-a3e7b36
+
 ## 0.43.3 (October 09, 2019)
 
 * More bugfixes
