@@ -3,7 +3,7 @@
 ## 0.51.0 (upcoming)
 
 * Pending changelog
-
+* Updated cd-test-parent.version to version 0.5.0-24b33af
 ## 0.50.0-2f89cc1 (Built: February 20, 2020 | Released: February 20, 2020)
 
 * Adding "!" to "Hello World!"
