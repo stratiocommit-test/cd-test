@@ -2,7 +2,7 @@
 
 ## 0.43.4 (March 06, 2020)
 
-* Updated cd-test-parent.version to version 0.5.0-64bac6a
+* Updated cd-test-parent.version to version 0.5.0-2cdb6aa
 
 ## 0.43.3 (October 09, 2019)
 
