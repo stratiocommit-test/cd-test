@@ -8,6 +8,7 @@ hose {
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
+    ANCHORE_NIGHTLY_JOB = true
 
     ITSERVICES = [
         ['ZOOKEEPER': [
