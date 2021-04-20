@@ -1,4 +1,4 @@
-@Library('libpipelines@renamingImages') _
+@Library('libpipelines@feature/FLOW-1850') _
 
 hose {
     EMAIL = 'cd'
