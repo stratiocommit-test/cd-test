@@ -1,4 +1,4 @@
-@Library('libpipelines@feature/FLOW-1850') _
+@Library('libpipelines@master') _
 
 hose {
     EMAIL = 'cd'
