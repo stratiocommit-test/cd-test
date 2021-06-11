@@ -3,7 +3,6 @@
 hose {
     EMAIL = 'cd'
     NEW_VERSIONING = 'true'
-    AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
