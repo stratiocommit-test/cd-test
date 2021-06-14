@@ -24,9 +24,8 @@ hose {
 			'sleep': 5]]]
 
     DEV = { config ->
-        echo 'THIS IS MASTER'
-        doCompile(config)
-        doUT(config)
+        //doCompile(config)
+        //doUT(config)
         doIT(config)
         doPackage(config)
 	    doDeploy(conf: config)
