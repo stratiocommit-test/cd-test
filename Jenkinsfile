@@ -24,12 +24,12 @@ hose {
 			'sleep': 5]]]
 
     DEV = { config ->
-        //doCompile(config)
-        //doUT(config)
+        doCompile(config)
+        doUT(config)
         doIT(config)
         doPackage(config)
-	    doDeploy(conf: config)
-		doDocker(conf: config)
-		doRenameImages(conf: config)
+	doDeploy(conf: config)
+	//doDocker(conf: config)
+	//doRenameImages(conf: config)
     }
 }
