@@ -25,8 +25,13 @@ hose {
 
     DEV = { config ->
         doCompile(config)
-        doUT(config)
-        doIT(config)
+        //doUT(config)
+        //doIT(config)
+	parallel(UT: {
+        	doUT(config)
+            }, IT: {
+                doIT(config)
+            }, failFast: true)
         doPackage(config)
 	doDeploy(conf: config)
 	//doDocker(conf: config)
