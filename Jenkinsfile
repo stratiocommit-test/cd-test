@@ -34,7 +34,7 @@ hose {
             }, failFast: true)
         doPackage(config)
 	doDeploy(conf: config)
-	doDockers(conf:config, dockerImages: [[conf: config, image: cd-test]])
+	doDockers(conf:config, dockerImages: [[conf: config, image: "cd-test"]])
 		    
 	//doRenameImages(conf: config)
     }
