@@ -1,5 +1,7 @@
-FROM stratiocommit-test/cd-test-parent:0.5.0-f589efe
-MAINTAINER "cd@stratio.com"
+FROM ubuntu:16.04
+MAINTAINER CD "cd@stratio.com"
+
+COPY target/cd-test-0.51.0-SNAPSHOT.jar /
 
 ARG VERSION
 

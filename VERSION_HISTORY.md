@@ -1,6 +1,28 @@
 # Version History
 
 
+#### 0.50.8-b9e36c0 (Built: February 28, 2020 | Released: February 28, 2020)
+
+#### 0.50.7-1d69257 (Built: February 28, 2020 | Released: February 28, 2020)
+
+#### 0.50.6-cabbf3e (Built: February 28, 2020 | Released: February 28, 2020)
+
+#### 0.50.5-387e3c5 (Built: February 28, 2020 | Released: February 28, 2020)
+
+#### 0.50.4-d90b2f9 (Built: February 24, 2020 | Released: February 24, 2020)
+
+#### 0.50.3-7c96299 (Built: February 24, 2020 | Released: February 24, 2020)
+
+#### 0.50.2-bac653a (Built: February 24, 2020 | Released: February 24, 2020)
+
+#### 0.50.1-31388e2 (Built: February 20, 2020 | Released: February 24, 2020)
+
+#### 0.50.0-2f89cc1 (Built: February 20, 2020 | Released: February 20, 2020)
+
+#### 0.49.0-42079d7 (Built: January 22, 2020 | Released: January 22, 2020)
+
+#### 0.48.0-a9eb34a (Built: December 04, 2019 | Pre-release)
+
 #### 0.47.0-48cecb3 (Built: September 24, 2019 | Released: September 25, 2019)
 
 #### 0.46.0-8aac4ee (Built: June 07, 2019 | Pre-release)
@@ -26,6 +48,8 @@
 #### 0.45.0-f3aa88b (Built: April 02, 2019 | Released: April 02, 2019)
 
 #### 0.44.0-35c618f (Built: March 22, 2019 | Released: March 22, 2019)
+
+#### 0.43.4-08e5305 (Built: March 06, 2020 | Pre-release)
 
 #### 0.43.3-7048fbe (Built: October 09, 2019 | Released: October 09, 2019)
 
