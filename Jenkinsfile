@@ -1,10 +1,8 @@
-@Library('libpipelines@renamingImages') _
+@Library('libpipelines@master') _
 
 hose {
     EMAIL = 'cd'
-    BUILDTOOLVERSION = '3.5.0'
     NEW_VERSIONING = 'true'
-    AGENT = 'ubuntu-base-ssh-1604'
     ANCHORE_TEST = false
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
@@ -25,13 +23,11 @@ hose {
 			'sleep': 5]]]
 
     DEV = { config ->
-        echo 'THIS IS MASTER'
         doCompile(config)
         doUT(config)
         doIT(config)
         doPackage(config)
         doDeploy(conf: config)
-		doDocker(conf: config)
-		doRenameImages(conf: config)
+	doDocker(conf: config)
     }
 }
