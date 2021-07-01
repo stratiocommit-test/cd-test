@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.58.0 (upcoming)
+## 0.58.0 (July 01, 2021)
 
 * Maybe this is the one?
 
