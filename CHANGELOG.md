@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.59.0 (upcoming)
+## 0.59.0 (July 01, 2021)
 
 * This one surely is
 
