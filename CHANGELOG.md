@@ -2,7 +2,7 @@
 
 ## 0.54.0 (upcoming)
 
-* Pending changelog
+* More dummy changes
 
 ## 0.53.0-6abf3d5 (Built: July 01, 2021 | Pre-release)
 
