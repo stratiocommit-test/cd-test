@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.51.0 (upcoming)
+##0.52.0 (upcoming)
+
+* Pending changelog
+
+## 0.51.0-be6cfd6 (Built: July 01, 2021 | Pre-release)
 
 * Updated cd-test-parent.version to version 0.5.0-24b33af
 
