@@ -4,11 +4,9 @@
 
 * Another dummy change
 
-## 0.52.0 (upcoming)
+## 0.52.0-74c8340 (Built: July 01, 2021 | Pre-release)
 
 * Dummy change
-
-## 0.52.0-74c8340 (Built: July 01, 2021 | Pre-release)
 
 ## 0.51.0-be6cfd6 (Built: July 01, 2021 | Pre-release)
 
