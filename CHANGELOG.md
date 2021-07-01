@@ -2,7 +2,7 @@
 
 ## 0.60.0 (upcoming)
 
-* Pending changelog
+* Check milestones again for security risk
 
 ## 0.59.0-ad4b513 (Built: July 01, 2021 | Released: July 01, 2021)
 
