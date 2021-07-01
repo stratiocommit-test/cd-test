@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.56.0 (upcoming)
+## 0.56.0 (July 01, 2021)
 
 * This one is good!
 
