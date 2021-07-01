@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.59.0 (upcoming)
+## 0.60.0 (upcoming)
+
+* Pending changelog
+
+## 0.59.0-e2ed151 (Built: July 01, 2021 | Pre-release)
 
 * This one surely is
 
