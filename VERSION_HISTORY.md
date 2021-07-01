@@ -1,5 +1,7 @@
 # Version History
 
+#### 0.55.0-22b55f0 (Built: July 01, 2021 | Pre-release)
+
 #### 0.54.0-7275d7c (Built: July 01, 2021 | Pre-release)
 
 #### 0.53.0-6abf3d5 (Built: July 01, 2021 | Pre-release)
