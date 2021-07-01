@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.53.0 (upcoming)
+## 0.54.0 (upcoming)
+
+* Pending changelog
+
+## 0.53.0-6abf3d5 (Built: July 01, 2021 | Pre-release)
 
 * Another dummy change
 
