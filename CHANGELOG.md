@@ -1,6 +1,6 @@
 # Changelog
 
-##0.52.0 (upcoming)
+##0.52.0 (July 01, 2021)
 
 * Dummy change
 
