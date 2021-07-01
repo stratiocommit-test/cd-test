@@ -2,7 +2,7 @@
 
 ## 0.55.0 (upcoming)
 
-* Pending changelog
+* Another weird change
 
 ## 0.54.0-7275d7c (Built: July 01, 2021 | Pre-release)
 
