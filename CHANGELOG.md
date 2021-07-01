@@ -1,10 +1,10 @@
 # Changelog
 
-##0.53.0 (upcoming)
+## 0.53.0 (upcoming)
 
-* Pending changelog
+* Another dummy change
 
-##0.52.0 (upcoming)
+## 0.52.0 (upcoming)
 
 * Dummy change
 
