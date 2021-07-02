@@ -3,7 +3,7 @@
 hose {
     EMAIL = 'cd'
     NEW_VERSIONING = 'true'
-    ANCHORE_TEST = false
+    ANCHORE_TEST = true
     DEPLOYONPRS = false
     GENERATE_QA_ISSUE = false
 //    ANCHORE_NIGHTLY_JOB = true
