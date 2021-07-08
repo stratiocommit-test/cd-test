@@ -2,7 +2,7 @@
 
 ## 0.64.0 (upcoming)
 
-* Pending changelog
+* This should do
 
 ## 0.63.0-71022da (Built: July 08, 2021 | Released: July 08, 2021)
 
