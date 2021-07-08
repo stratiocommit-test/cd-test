@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.60.0 (upcoming)
+## 0.60.0 (July 08, 2021)
 
 * Check milestones again for security risk
 
