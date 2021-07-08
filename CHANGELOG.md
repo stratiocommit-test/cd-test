@@ -2,7 +2,7 @@
 
 ## 0.61.0 (upcoming)
 
-* Pending changelog
+* Testing Anchore subscriptions
 
 ## 0.60.0-95e245d (Built: July 08, 2021 | Released: July 08, 2021)
 
