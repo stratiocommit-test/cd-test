@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.60.0 (upcoming)
+## 0.61.0 (upcoming)
+
+* Pending changelog
+
+## 0.60.0-95e245d (Built: July 08, 2021 | Pre-release)
 
 * Check milestones again for security risk
 
