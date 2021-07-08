@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.64.0-cda7724 (Built: July 08, 2021 | Pre-release)
+## 0.64.0-cda7724 (Built: July 08, 2021 | Released: July 08, 2021)
 
 * This should do
 
