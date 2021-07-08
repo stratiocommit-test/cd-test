@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.61.0 (upcoming)
+## 0.62.0 (upcoming)
+
+* Pending changelog
+
+## 0.61.0-2c5b976 (Built: July 08, 2021 | Pre-release)
 
 * Testing Anchore subscriptions
 
