@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.64.0 (upcoming)
+## 0.64.0 (July 08, 2021)
 
 * This should do
 
