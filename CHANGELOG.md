@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.61.0 (upcoming)
+## 0.61.0 (July 08, 2021)
 
 * Testing Anchore subscriptions
 
