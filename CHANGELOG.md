@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.65.1 (upcoming)
+
+* Testing security leak
+
 ## 0.65.0 (July 09, 2021)
 
 * Testing Anchore subscriptions in k8s
