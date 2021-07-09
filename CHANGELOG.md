@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.66.0 (upcoming)
+## 0.66.0 (July 09, 2021)
 
 * Something new
 
