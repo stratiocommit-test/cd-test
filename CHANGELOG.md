@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.66.1 (upcoming)
+## 0.66.1 (July 09, 2021)
 
 * Hotfix
 
