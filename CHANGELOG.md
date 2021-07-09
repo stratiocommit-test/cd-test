@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.64.1 (upcoming)
+## 0.64.1 (July 09, 2021)
 
 * One final change
 
