@@ -2,7 +2,7 @@
 
 ## 0.65.0 (upcoming)
 
-* Pending changelog
+* Testing Anchore subscriptions in k8s
 
 ## 0.64.0-cda7724 (Built: July 08, 2021 | Released: July 08, 2021)
 
