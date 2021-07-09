@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.65.0-80c85f5 (Built: July 09, 2021 | Pre-release)
+## 0.65.0-80c85f5 (Built: July 09, 2021 | Released: July 09, 2021)
 
 * Testing Anchore subscriptions in k8s
 
