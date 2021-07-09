@@ -4,7 +4,7 @@
 
 * Pending changelog
 
-## 0.66.0-8687678 (Built: July 09, 2021 | Pre-release)
+## 0.66.0-8687678 (Built: July 09, 2021 | Released: July 09, 2021)
 
 * Something new
 
