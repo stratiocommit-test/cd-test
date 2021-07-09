@@ -1,6 +1,6 @@
 # Version History
 
-#### 0.64.1-7495b6b (Built: July 09, 2021 | Pre-release)
+#### 0.64.1-7495b6b (Built: July 09, 2021 | Released: July 09, 2021)
 
 #### 0.64.0-cda7724 (Built: July 08, 2021 | Released: July 08, 2021)
 
