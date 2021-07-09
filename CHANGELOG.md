@@ -2,7 +2,7 @@
 
 ## 0.66.0 (upcoming)
 
-* Pending changelog
+* Something new
 
 ## 0.65.0-80c85f5 (Built: July 09, 2021 | Released: July 09, 2021)
 
